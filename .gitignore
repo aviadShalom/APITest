@@ -1,0 +1,12 @@
+*.pyc
+env
+venv
+*.xml
+.idea/*
+.idea/vcs.xml
+settings.ini
+www/node_modules
+www/dist/*
+*.log
+www/create
+www/flush
